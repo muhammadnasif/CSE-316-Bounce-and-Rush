@@ -43,8 +43,6 @@ The project involves a complex circuit design, including:
 3. Implementing collision detection
 4. Efficient use of decoders for LED matrix control
 
-## How to Run
-[Add instructions on how to set up and run the game on the microcontroller setup]
 
 ## Contributors
 - Student ID: 1705109
